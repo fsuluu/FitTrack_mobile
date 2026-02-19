@@ -1,13 +1,8 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 📦 APK Build
 
 The Android APK file generated for this project can be found at:
 
 android/app/build/outputs/apk/debug/app-debug.apk
-
 
 Example local path used during development:
 
@@ -74,28 +69,28 @@ npm start
 
 🎯 Design Inspiration
 
-The UI design was developed by interpreting the provided inspiration boards and translating their:
+- The UI design was developed by interpreting the provided inspiration boards and translating their:
 
-Color harmony
+- Color harmony
 
-Layout structure
+- Layout structure
 
-Wellness-focused visual language
+- Wellness-focused visual language
 
-Minimal and calming aesthetic
+- Minimal and calming aesthetic
 
-into a functional mobile application.
+- into a functional mobile application.
 
 👩‍💻 Project Purpose
 
 This project was created as part of a mobile application development assignment to demonstrate:
 
-Mobile UI/UX implementation
+- Mobile UI/UX implementation
 
-Navigation architecture
+- Navigation architecture
 
-Component-based development
+ Component-based development
 
-GitHub project organization
+- GitHub project organization
 
-Design-to-product transformation
+- Design-to-product transformation
