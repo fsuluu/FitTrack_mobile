@@ -1,0 +1,7 @@
+{
+  "name": "FitFocus - Modern Wellness Companion",
+  "description": "A high-performance fitness and wellness tracking application inspired by modern minimalist designs. Features workout discovery, progress tracking with charts, and AI-powered motivational insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
