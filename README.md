@@ -2,11 +2,11 @@
 
 The Android APK file generated for this project can be found at:
 
-android/app/build/outputs/apk/debug/app-debug.apk
+---> android/app/build/outputs/apk/debug/app-debug.apk
 
 Example local path used during development:
 
-C:\Users\fatma\Desktop\MUG\1\fitfocus---modern-wellness-companion\android\app\build\outputs\apk\debug
+---> C:\Users\fatma\Desktop\MUG\1\fitfocus---modern-wellness-companion\android\app\build\outputs\apk\debug
 
 # Run and deploy your AI Studio app
 
